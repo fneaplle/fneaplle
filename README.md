@@ -4,7 +4,7 @@
 
 **About me**
 
-- ML & DB Engineer
+- ML & DB Engineer 🔥
 - I love Climbing 🧗‍♂️, Singing a song 🎵
 - I want to make code that helps people ❤️
 
