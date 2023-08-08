@@ -3,9 +3,9 @@
 ## ✋Hello! I'm Heesang Kim✋
 
 - ML & DB Engineer 🔥
-- I love Climbing 🧗‍♂️, Singing a song 🎵
 - Let's make code that helps people ❤️
-
+Email : fneaplle@gmail.com
+github: github.com/fneaplle
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>  
 
